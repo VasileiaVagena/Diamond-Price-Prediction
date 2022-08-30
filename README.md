@@ -1,4 +1,4 @@
-# Diamond-Price-Prediction
+# Prediction of Diamonds Prices
 
 In this project I want to predict Diamond Prices based on Cut, Color, Clurity and other attributes. I have chosen the simple structure diamonds dataset from the Kaggle website.
 
