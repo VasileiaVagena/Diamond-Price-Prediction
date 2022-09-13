@@ -36,7 +36,7 @@ The dataset consists of 53,940 entries of diamonds and contains 11 columns (10 o
 
 <p>&#8883; The dataset does not include any missing values. However diamonds with x, y ,z=0 or x, y, z >10 are outliers.</p>
 
-<p>&#8883; The dataset includes 3 categorical variable(cut, color and clarity). I used OrdinalEncoder to encode these categorical vairables.</p>
+<p>&#8883; The dataset includes 3 categorical variable (cut, color and clarity). I used OrdinalEncoder to encode these categorical variables.</p>
 
 <p>&#8883; I created a new feature called "volume", which is the multiplication of x, y and z. I removed the x, y, z columns and added a this new "volume" column to the dataset.</p>
 
